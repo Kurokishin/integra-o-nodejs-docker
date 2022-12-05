@@ -1,5 +1,6 @@
 # Contêiner docker para Node.js
 Atividade proposta na Sprint I do programa de bolsas da compass.UOL
+
 <div align="center">
   <img src="images/docker-and-node.png" alt="Logo" width="400"/>
 </div>
