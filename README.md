@@ -33,7 +33,7 @@ app.listen(3000, () => {
 ```
 npm init
 ```
-Isso fará com que as informações referentes ao projeto, como versões e depenências sejam salvas em um arquivo **package.json**
+Isso fará com que as informações referentes ao projeto, como versões e dependências sejam salvas em um arquivo **package.json**
 
 4. Instalação da biblioteca **express** no arquivo **package.json**
 ```
