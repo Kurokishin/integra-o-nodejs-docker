@@ -10,6 +10,7 @@ Atividade proposta na Sprint I do programa de bolsas da compass.UOL
 # Sumário
 * [`Ferramentas utilizadas`](#ferramentas-utilizadas)
 * [`Desenvolvimento`](#desenvolvimento)
+* [`Referências`](#referências)
 
 # Ferramentas utilizadas
 * [`Node.js`](https://nodejs.org/en/)
