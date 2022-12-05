@@ -108,7 +108,7 @@ docker run -d -p 8000:3000 -v endereço_do_app_localmente:/app docker-container-
 > - -v = monta os arquivos do software no diretório do aplicativo do contêiner
 
 10. No endereço **localhost:8000** está o **Node.js** sendo executado no docker
-![localhost](localhost.png)
+![localhost](images/localhost.png)
 
 # Referências
 Esse projeto foi baseado no guia da [`acervo lima`](https://acervolima.com/docker-docker-container-para-node-js/)
